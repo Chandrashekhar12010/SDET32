@@ -2,10 +2,10 @@ package com.crm.comcast.SDET32_GitPractice;
 
 import org.testng.annotations.Test;
 
-public class ClassA {
+public class ClassC {
 
 	@Test
-	public void demoTest() {
-		System.out.println("First changed push");
+	public void demoTest3() {
+		System.out.println("third push");
 	}
 }
