@@ -9,5 +9,6 @@ public class ClassC {
 		System.out.println("third push");
 		System.out.println("fifth push");
 		System.out.println("fourth push");
+		System.out.println("sixth push");
 	}
 }
